@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class Student {
+    String name;
+    int id;
+    String password;
 
-public class Pojo {
 }
